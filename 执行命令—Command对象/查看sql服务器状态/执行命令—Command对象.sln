@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "执行命令—Command对象", "查看sql服务器状态\执行命令—Command对象.csproj", "{1FED16FA-3D9A-43D1-A1FF-59106B8BDCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FED16FA-3D9A-43D1-A1FF-59106B8BDCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FED16FA-3D9A-43D1-A1FF-59106B8BDCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FED16FA-3D9A-43D1-A1FF-59106B8BDCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FED16FA-3D9A-43D1-A1FF-59106B8BDCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92030B5D-4C09-4723-877E-147A5CB62B9F}
+	EndGlobalSection
+EndGlobal
