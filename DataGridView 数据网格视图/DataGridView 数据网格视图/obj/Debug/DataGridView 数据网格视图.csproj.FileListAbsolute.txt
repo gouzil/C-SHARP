@@ -1,0 +1,10 @@
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\bin\Debug\DataGridView 数据网格视图.exe.config
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\bin\Debug\DataGridView 数据网格视图.exe
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\bin\Debug\DataGridView 数据网格视图.pdb
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView 数据网格视图.csprojAssemblyReference.cache
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView_数据网格视图.Properties.Resources.resources
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView 数据网格视图.csproj.GenerateResource.cache
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView 数据网格视图.csproj.CoreCompileInputs.cache
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView 数据网格视图.exe
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView 数据网格视图.pdb
+F:\学习资料\c#作业\第十三周\DataGridView 数据网格视图\DataGridView 数据网格视图\obj\Debug\DataGridView_数据网格视图.数据网格视图.resources
