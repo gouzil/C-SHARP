@@ -1,0 +1,10 @@
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\bin\Debug\DateReader对象 -- 下拉菜单调用.exe.config
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\bin\Debug\DateReader对象 -- 下拉菜单调用.exe
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\bin\Debug\DateReader对象 -- 下拉菜单调用.pdb
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象 -- 下拉菜单调用.csprojAssemblyReference.cache
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象____下拉菜单调用.Properties.Resources.resources
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象 -- 下拉菜单调用.csproj.GenerateResource.cache
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象 -- 下拉菜单调用.csproj.CoreCompileInputs.cache
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象 -- 下拉菜单调用.exe
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象 -- 下拉菜单调用.pdb
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 下拉菜单调用\DateReader对象 -- 下拉菜单调用\obj\Debug\DateReader对象____下拉菜单调用.对象__下拉菜单调用.resources
