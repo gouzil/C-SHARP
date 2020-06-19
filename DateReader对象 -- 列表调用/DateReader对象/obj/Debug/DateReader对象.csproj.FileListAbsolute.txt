@@ -1,0 +1,20 @@
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\bin\Debug\DateReader对象.exe.config
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\bin\Debug\DateReader对象.exe
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\bin\Debug\DateReader对象.pdb
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.csprojAssemblyReference.cache
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.Form1.resources
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.Properties.Resources.resources
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.csproj.GenerateResource.cache
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.csproj.CoreCompileInputs.cache
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.exe
+F:\学习资料\c#作业\第十四周\DateReader对象\DateReader对象\obj\Debug\DateReader对象.pdb
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\bin\Debug\DateReader对象.exe.config
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\bin\Debug\DateReader对象.exe
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\bin\Debug\DateReader对象.pdb
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.csprojAssemblyReference.cache
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.对象__列表调用.resources
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.Properties.Resources.resources
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.csproj.GenerateResource.cache
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.csproj.CoreCompileInputs.cache
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.exe
+F:\学习资料\c#作业\第十四周\DateReader对象 -- 列表调用\DateReader对象\obj\Debug\DateReader对象.pdb
